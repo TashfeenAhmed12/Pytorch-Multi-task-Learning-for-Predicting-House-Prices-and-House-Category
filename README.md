@@ -1,7 +1,6 @@
-# Objective:
+# Objective
 
-This project aims to construct a multi-task learning model capable of predicting both house prices and categorizing houses by their features using deep learning techniques. Utilizing the PyTorch Lightning framework, the model handles both regression and classification tasks within a unified architecture. By integrating advanced optimization tools like Optuna, the model dynamically fine-tunes hyperparameters to achieve optimal performance, offering valuable insights into the application of multi-task learning in real-world scenarios.
-
+This project aims to construct a multi-task learning model capable of predicting both house prices and categorizing houses by their features using deep learning techniques. Utilizing the PyTorch Lightning framework, the model handles both regression (house price prediction) and classification (house categorization) tasks within a unified architecture. By integrating advanced optimization tools like Optuna, the model dynamically fine-tunes hyperparameters to achieve optimal performance. This approach is particularly valuable for businesses in the real estate sector, enabling them to enhance property valuation accuracy and market segmentation. Accurate price predictions and effective categorization can help real estate professionals make informed investment decisions, optimize their marketing strategies, and improve customer targeting.
 
 # Data Description:
 

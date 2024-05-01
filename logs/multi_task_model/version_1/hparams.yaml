@@ -1,0 +1,7 @@
+input_dim: 286
+num_classes: 2
+params:
+  dropout_rate: 0.3056301152664795
+  hidden_size: 430
+  learning_rate: 0.0024432809046207224
+  learning_rate_decay: 0.7012059081994463

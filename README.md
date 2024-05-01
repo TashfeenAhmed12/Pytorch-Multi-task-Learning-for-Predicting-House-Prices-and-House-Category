@@ -31,7 +31,6 @@ The evaluation of the models was meticulously carried out using a range of metri
 Testing was conducted on an unseen test dataset, ensuring models were not just evaluated on their performance during training or validation but also on how well they could generalize to new data. This testing phase was critical in assessing the real-world applicability of the multi-task learning models developed in the project
 
 # Results
-
 ## Best Model Results
 The table below summarizes the performance of the best model (Model 1) across various metrics during the training and validation phases. This model excelled due to its robust architecture and effective use of optimization and activation functions, which contributed to high accuracy and generalization capabilities:
 
@@ -46,7 +45,6 @@ The table below summarizes the performance of the best model (Model 1) across va
 | R2 Score       | 0.7715   | 0.8219     |
 
 ### Insights from the Results
-
 - **Accuracy and F1-Score:** Both high accuracy and F1-score across training and validation phases indicate that the model is well-tuned and capable of delivering consistent predictions, effectively balancing precision and recall.
 - **Precision and Recall:** The precision and recall values close to or above 90% show that the model accurately identifies relevant instances and categorizes the house types with minimal error, making it reliable for practical use.
 - **Total Loss:** The low total loss during training, which slightly increases during validation, suggests that while the model is fitted well to the training data, it also maintains a reasonable generalization to unseen data without overfitting.
